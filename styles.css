@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+#grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    margin: 100px auto;
+}
+
+.grid-square {
+    border: 1px solid whitesmoke;
+}
